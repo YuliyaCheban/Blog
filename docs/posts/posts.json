@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/8_26_20_Second Post/",
+    "title": "My Second Post",
+    "description": "This is a second post.",
+    "author": [
+      {
+        "name": "Yuliya Cheban",
+        "url": "https://www.iopsych-baruch.com/yuliya-cheban"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-26T19:11:41-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "My First Post",
     "description": "This is a first post.",
