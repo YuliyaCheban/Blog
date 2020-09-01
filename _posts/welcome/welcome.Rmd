@@ -1,7 +1,7 @@
 ---
-title: "My First Post"
+title: "My Goals While Enrolled in Cognitive Psychology"
 description: |
-  This is a first post.
+  Take a look at some of my initial thoughts and goals while enrolled in a cognitive psychology course!
 author:
   - name: Yuliya Cheban
     url: https://www.iopsych-baruch.com/yuliya-cheban
@@ -23,36 +23,38 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-I can write my first post. Writing...
+# My Relatively Novice Perspective
 
-# my first level header
+Psychology has been at the forefront of my formal education for the better half of my life. As many in the field know, that could mean a slew of different things. On my end, that means I spend a majority of my day thinking about how to improve the world of organizations for applicants and employees. I recognize that for those not in this field, the connection between psychology and the world of work is not always abundantly clear. However, what binds most, if not all, psychologists together is the hope to understand the various mental processes (e.g., attention, perception, memory, creativity, etc..) our subjects of interest experience. I'm eager to be taking this course because increasing my expertise in an area that I view connects psychologists will make me a stronger and more confident learner.
 
-Text
+That being said, my current understanding of Cognitive Psychology as a field is broad and relatively malleable as it can be interjected into conversations dealing with many other subject areas. I suppose this understanding of the field that I have necessitates I dig deeper into how cognitive psychology specifically lends itself to my field: Industrial-Organizational (I-O) Psychology; thus, I present some of my learning goals below.  
 
-## my second level header
+# Learning Goals
 
-More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. More text. 
+As I briefly sit and ruminate on some topic areas of I-O Psychology, I realize that all of the ones I think about frequently (particularly Employee Selection, Performance Management, and Training) are very deeply tied to Cognitive Psychology. I would like to use this section to do these areas justice by making explicit connections between them and Cognitive Psychology in my learning goals for the semester.
 
-1. List
-2. List
-3. List
+Over the course of this semester I hope to branch I-O Psychology and Cognitive Psychology by:
 
-- bullet one
-- bullet two
-- bullet three
+1. Understanding the impact memory has on how individuals get rated in selection and performance management practices.
+2. Understanding how language, especially with multilingual individuals, impacts selection test scores; and especially, how we can use this information to build fair and valid assessments.
+3. Understanding the concepts related to the decision making process of individuals who are incumbents in roles that require high risk taking behaviors.
+4. Understanding how memory and learning (and the individual differences people exhibit between them) impact the effectiveness of employee training programs.
 
-## citing a paper
+I have chosen these learning goals because they collectively integrate my favorite topics in my field. Below I present my topic of interest which is relatively independent from these because of it's specificity. I'm interested to see how both my learning goals and my topic of interest develop or change as the semester progresses.
 
-Researchers have found ... [@Schacter1978]. 
+# Topic of Interest
 
-## pictures
+My learning goals above are relatively broad, especially compared to my (current) focal interest in I-O Psychology which is applicant reactions to selection procedures. One of my core professional tenets is that I-O Psychologists have a responsibility to advocate for applicants and one way to do that is to commit to measuring how <b>and</b> why applicants react to, or perceive, processes a certain way. That being said, below I present a research question that may help me answer this using a cognitive approach.
 
-```{r}
-knitr::include_graphics("img/nervous2-30.jpg")
-```
+## Overarching Research Question
 
+- In what contexts (e.g., location or type of organization) do applicants perceive fairer selection processes and why?
 
+I ask this question in a cognitive psychology course because I'm interested in furthering my understanding of how individuals perceive their environments, particularly in higher stakes contexts (e.g., job interviews).
 
-## References
+# Closing Thought
+
+I chose to use this specific blogging opportunity as a way to document my stream of consciousness about a topic I'm not completely confident in. As I proofread, I am increasingly more excited to be able to ground my work in cognitive psychology and immerse myself in its theories. 
+
 
 

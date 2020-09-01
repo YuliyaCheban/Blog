@@ -17,8 +17,8 @@
   },
   {
     "path": "posts/welcome/",
-    "title": "My First Post",
-    "description": "This is a first post.",
+    "title": "My Goals While Enrolled in Cognitive Psychology",
+    "description": "Take a look at some of my initial thoughts and goals while enrolled in a cognitive psychology course!",
     "author": [
       {
         "name": "Yuliya Cheban",
@@ -28,7 +28,7 @@
     "date": "2020-08-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-26T19:42:09-04:00",
+    "last_modified": "2020-08-31T22:09:40-04:00",
     "input_file": {}
   }
 ]
