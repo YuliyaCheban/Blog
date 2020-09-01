@@ -1,8 +1,8 @@
 [
   {
-    "path": "posts/8_26_20_Second Post/",
-    "title": "My Second Post",
-    "description": "This is a second post.",
+    "path": "posts/First Week's Readings/",
+    "title": "A Reflection on Foundations Pt. 1",
+    "description": "Please take a look at my reflections on Miller (1956), Newell (1973), and Schacter et al. (1978). I've also added how I find the concepts presented in these papers to be related to I-O Psychology.",
     "author": [
       {
         "name": "Yuliya Cheban",
@@ -12,11 +12,11 @@
     "date": "2020-08-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-26T19:15:24-04:00",
+    "last_modified": "2020-09-01T14:04:09-04:00",
     "input_file": {}
   },
   {
-    "path": "posts/welcome/",
+    "path": "posts/Goals for Course/",
     "title": "My Goals While Enrolled in Cognitive Psychology",
     "description": "Take a look at some of my initial thoughts and goals while enrolled in a cognitive psychology course!",
     "author": [

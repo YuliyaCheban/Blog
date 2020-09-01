@@ -1,0 +1,58 @@
+---
+title: "A Reflection on Foundations Pt. 1"
+description: |
+  Please take a look at my reflections on Miller (1956), Newell (1973), and Schacter et al. (1978). I've also added how I find the concepts presented in these papers to be related to I-O Psychology.
+author:
+  - name: Yuliya Cheban
+    url: https://www.iopsych-baruch.com/yuliya-cheban
+    affiliation: Baruch College
+    affiliation_url: https://www.iopsych-baruch.com
+date: 08-26-2020
+bibliography: Week 1 Readings.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+# Opening Note
+
+My last (or, I should say first) post was a purposeful stream of consciousness. As I begin to immerse myself in the readings, I hope to write more thoughtful entries on how the readings relate to one another, my previous knowledge, and/or just something I'm more interested in knowing. Here goes my first stab at that!
+
+# A Little About A Lot
+
+In this section, I aim to present some of the key findings (or more interesting takeaways) from each of the articles.
+
+## The Magical Number Seven
+- Having completed an undergraduate degree in psychology, I could not escape hearing "seven plus or minus two!" in nearly every course dealing with memory. Yet, at the time, I never bothered to question why. In comes Miller (1956) [@Miller1956]! In his paper, he discusses information as variance. Meaning, if there is large variance (i.e., too much information) in a given situation we cannot be confident in knowing the outcome. Whereas in situations where the variance, or amount of information presented, is less we can know in advance what our outcome will be. <i>Theoretically, this actually helped me rewire the way I refer to information!</i> 
+- Now, in good chunk of the article Miller explains how the amount of information we are able to process can vary depending on whether the stimuli is uni- or multidimensional. To elaborate using the simplest example, there is difference in the correct judgments we are able to make when attempting to identify the pitch of a tone versus when we are asked to identify both the pitch and volume of a tone. This points to the notion that we are able to take in all of the information (i.e., increase our capacity); however, we are less likely to judge it as precisely. 
+- Miller then goes on to explain the terms <i>subitizing</i> and <i>recoding</i>. Both terms I was familiar with prior to this article, yet --I appreciated seeing them in this context (mainly because it's making my former, undergraduate, brain light up). In describing subitizing, Miller mentions research in which participants had to recall patterns of dots presented on a screen --when the patterns included less than 7 dots, participants were able to quickly and accurately judge (i.e., subitize) how many dots were presented. However, when there was more than seven, participants began to estimate  [@Kaufman1949]. Miller refers to this limitation as the span of absolute judgment --particularly for uni-dimensional stimuli. This is where recoding, or chunking, information becomes increasingly more useful. When we chunk information, we combine bits of information into larger units allowing us to recall more of these bits.
+
+## 20 Questions with Nature
+This reading is a composition of Newell's comments on papers presented at a symposium [@Newell2012]. It's the first time I'm reading a paper with immediate candor, it's simultaneously morose and amusing. Nonetheless, it has some really valuable takeaways (below are the ones I was able to resonate with most):
+
+- He begins his reflection by sharing a list of some phenomena that psychologists in his area (visual information processing) can work with and wow! He came up with 59 --many of which I'm not familiar with at all (e.g., linear research on displays, acoustic confusions, and cyclopean perception). At this point, I am absolutely intimidated by the field. However, Newell very succinctly brings it back to goals that psychologists have. We essentially aim to understand behavior by (in his opinion) creating binary explanations (e.g., nature vs. nurture, peripheral vs. central, and massed vs. distributed practice) for behaviors. 
+- With so many potential explanations for behavior, Newell believes that we never achieve true clarity because with each research area we continuously play "20 questions with nature" in which we gain only bits of information with each question. He does confidently state that behavior is programmable (i.e., it is in control of the person) and in order to understand a person you should become familiar with their: (1) goals, (2) the structure of the task environment, and (3) structure of their processing mechanisms. Knowing this, you can predict what is possible for a person to do based on the options that you know exist to them.
+- Newell also presented an issue with the "current" scientific style (which actually is fairly consistent with what exists now) in which we look at data as either supporting or refuting a side of some binary opposition. This is problematic because it removes a lot of the complexity that exists within understanding behaviors.
+-Ultimately, Newell argues that we should view people as information processing systems. We can aim to understand these systems in three possible ways: (1) complete processing models, (2) analyzing on a task basis, or (3) creating one system to perform all tasks. After attempting to conceptualize what this all means, I, again, became intimidated. However, it seems that Newell himself was facing some form of professional existential crisis while writing the paper, as I am facing reading it.
+
+## On Semon's Theory of Memory
+
+In Schacter et al's (1978) paper, we learn about a theory of memory that received little attention [@Schacter1978]. Although the theory of memory is a key piece to this paper, I actually found the reasons behind it not being prominent really vital for all researchers to understand. Here are some thoughts and takeaways:
+
+- Semon's theory of memory stated that all memories would leave a trace (i.e., an engram) in one's nervous system. That memory would then be recovered when a person encounters some piece of the stimuli or experience again. Semon also believed that these engrams can be inherited (I have not read too much about this, but right off the bat this sounds like a problematic assumption).
+- Now, here are the 4 reasons presented in the article that state why Semon's theory is relatively unknown: (1) his theory tried to explain and unify more phenomena than truly feasible, (2) he invented his own (difficult) terminology for some existing (although, more simple) concepts, (3) his theory became "wrongly" more known for the memory-heredity connection, and (4) he provided no original, experimental work to back his theory. 
+
+I think the the reasoning Schacter et al. provided is useful to consider as we develop our own research. For example, highlighting point #2, there has been an issue with construct proliferation where researchers label constructs uniquely, while an existing construct serves the same purpose [@Shaffer2016]. Furthermore, and as mentioned in Schacter et al., these more difficult terms can create various barriers to understanding and participating in such work. Ultimately, we as researchers (especially in the applied fields) have the responsibility to make our work applicable and understandable to the populations we serve.
+
+# A Quick Note on the Application to I-O Psychology
+Now that I've given myself time to reflect on these readings, I think they all connect to I-O Psychology together rather cohesively. In thinking about the learning goals I set for the semester, the topic areas I included were selection, performance management, and training. For this week, the most natural connection comes between cognitive psychology and <i>training</i>. The three articles from the week can help inform how to build training systems utilizing the appropriate amount of information to be presented (i.e., Schacter et al), while keeping in mind a person's goals (i.e., Newell), and understanding how memory and its connection to our nervous system can be used to arouse and restore what we have learned before.
+
+
