@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/Second Week's Readings/",
+    "title": "A Reflection on Foundations Pt. 2",
+    "description": "Please take a look at my reflections on Hintzman (1986), Crump et al. (2019), and Aujla et al. (2019). I've also added how I find the concepts presented in these papers to be related to I-O Psychology.",
+    "author": [
+      {
+        "name": "Yuliya Cheban",
+        "url": "https://www.iopsych-baruch.com/yuliya-cheban"
+      }
+    ],
+    "date": "2020-09-07",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-08T17:10:57-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/First Week's Readings/",
     "title": "A Reflection on Foundations Pt. 1",
     "description": "Please take a look at my reflections on Miller (1956), Newell (1973), and Schacter et al. (1978). I've also added how I find the concepts presented in these papers to be related to I-O Psychology.",
@@ -12,7 +28,7 @@
     "date": "2020-08-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-09-01T14:04:09-04:00",
+    "last_modified": "2020-09-07T09:51:58-04:00",
     "input_file": {}
   },
   {

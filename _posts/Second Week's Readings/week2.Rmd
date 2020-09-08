@@ -1,0 +1,58 @@
+---
+title: "A Reflection on Foundations Pt. 2"
+description: |
+  Please take a look at my reflections on Hintzman (1986), Crump et al. (2019), and Aujla et al. (2019). I've also added how I find the concepts presented in these papers to be related to I-O Psychology.
+author:
+  - name: Yuliya Cheban
+    url: https://www.iopsych-baruch.com/yuliya-cheban
+    affiliation: Baruch College
+    affiliation_url: https://www.iopsych-baruch.com
+date: 09-07-2020
+bibliography: Week 2 Readings.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+# Opening Note
+
+I'm finding these monologue type blog posts really helpful with talking myself through the material. This week particularly pushed my thinking in Cognitive Psychology because I'm not familiar with this line of work. Beyond the assigned readings for the week, I also decided to try and ground myself in some of the theoretical work and models mentioned that I wasn't too familiar with (e.g., information theory, instance theory, and Minerva 2) prior to the readings.
+
+# A Little About A Lot
+
+In this section, I aim to present some of the key findings (or more interesting takeaways) from each of the articles.
+
+## Multiple-Trace Memory
+
+- In Hintzman's (1986) [@Hintzman1986] paper, he used <i>Minerva 2</i> which is a memory model that shows each experience with a stimuli, even repetitions, leave a <b>new</b> memory trace. When someone attempts to retrieve a memory, a sum of all relevant traces with that stimuli emerges (he ends this paper by making a direct comparison to Semon's Theory discussed last week). 
+
+- One of the more informative studies discussed in the paper was by Roth and Shoben (1983) [@Roth1983] in which they showcased context specificity (i.e., ranking beverages is dependent on the situation). What's interesting is the potential subjectivity of context specificity. For instance, I'm sure there are various cultural differences that can impact the appropriateness of a beverage for a certain situation. 
+
+- Taking these two points together, and considering the Hick-Hyman law (discussed in the next section), I am really eager to get to the decision-making module in this class as I'm interested in how these points can impact hiring decisions. Specifically in terms of potential bias in selection systems.
+
+## Episodic Uncertainty
+
+- In this paper, empirically, Crump et al. (2019) [@Crump2019] showed that interkeystroke intervals were a function of where letters were in a given word and how long the word was. Theoretically, the authors showed that instance theory (showing that performance can be automatized given enough practice) helps explain the Hick-Hyman law (the time it takes an individual to make a decision is a result of the possible choices). 
+
+- Going beyond what is presented in the paper, Crump et al. (2019) helped me see how much of the psychology literature I have yet to discover that could have a ton of impact in I-O. Given the work presented, I'm curious how individuals who speak, and write, in more than one language differ from individuals who speak only one. Additionally, I would also be curious about what the difference in interkeystroke intervals is between individuals who are native English speakers compared to those who regard English as their second language.  
+
+
+## Building a Search Engine
+
+- In terms of the Aujla et al. (2019) paper, I was really intrigued to know that you can build something like this [@Aujla2019]! The Semantic Librarian is essentially a system built to recognize themes among publications in certain journals.  
+
+- There seems to be a lot of value here for researchers --in fact I checked out https://crumplab.github.io/SemanticLibrarian/. My question here would be, could a system like this be used beyond retrieval, but to predict future need in specific research fields? For example, I noticed that there was a table in the blog that showed more unique publications (i.e., semantically distinct abstracts). Would it be possible to pick up on these unqiue trends throughout several issues of a journal to trace up and coming research topics?
+
+
+# A Quick Note on the Application to I-O Psychology
+
+Taken together, these readings can help inform how I-O psychologists can optimize their research programs; subsequently impacting our recommendations in the field. For example, in understanding typing patterns and behaviors and, as mentioned as a potential research question above --how these behaviors emerge differently in multi-lingual individuals can help inform Job Analysts when building selection, performance management, and training systems for typing heavy positions (e.g., court reporters). Taking this point even further, if there are significant differences between keystroke times in different populations --it could impact the types of individuals hired (e.g., native English speakers) for typing heavy jobs, creating a selection system that disadvantages non-native speakers. This would showcase a major need for pre-employment training.
+
